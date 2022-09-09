@@ -15,3 +15,5 @@ bricks:
     path: ./i18n
   notifications:
     path: ./lib/utils/notifications
+  boilerplate:
+    path: boilerplate
