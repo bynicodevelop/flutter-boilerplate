@@ -1,0 +1,5 @@
+analyzer:
+  exclude:
+    - config/**/__brick__/**
+    - i18n/__brick__/**
+    - lib/**/__brick__/**
