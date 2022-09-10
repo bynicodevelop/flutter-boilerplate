@@ -21,10 +21,15 @@ environment:
 #  * an optional prompt phrase used when asking for the variable
 #  * a list of values (enums only)
 vars:
+  app_package_name:
+    type: string
+    description: The package name for the app.
+    default: com_nicodevelop_app
+    prompt: What is the package name for the app?
   app_name:
     type: string
     description: The name of the app
-    default: com_nicodevelop_app
+    default: Nico Develop App
     prompt: What is the name of your app?
   use_firebase_auth:
     type: boolean

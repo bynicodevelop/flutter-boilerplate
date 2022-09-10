@@ -5,4 +5,3 @@ environment:
 
 dependencies:
   mason: ^0.1.0-dev
-  process_run: ^0.12.3+2

@@ -1,3 +1,3 @@
 import 'package:mason/mason.dart';
 
-void run(HookContext context) {}
+Future<void> run(HookContext context) async {}
