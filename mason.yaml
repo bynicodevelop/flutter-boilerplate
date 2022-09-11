@@ -1,19 +1,19 @@
 bricks:
   constants_config:
-    path: ./config/constants_config
+    path: ./tools/config/constants_config
   theme_config:
-    path: ./config/theme_config
+    path: ./tools/config/theme_config
   generic_screen:
-    path: ./lib/screens/generic_screen
+    path: ./tools/lib/screens/generic_screen
   bloc_service:
-    path: ./lib/services/bloc_service
+    path: ./tools/lib/services/bloc_service
   service_boostrap:
-    path: ./lib/service_boostrap
+    path: ./tools/lib/service_boostrap
   repository:
-    path: ./lib/repository/repository
+    path: ./tools/lib/repository/repository
   i18n:
-    path: ./i18n
+    path: ./tools/i18n
   notifications:
-    path: ./lib/utils/notifications
+    path: ./tools/lib/utils/notifications
   boilerplate:
     path: boilerplate

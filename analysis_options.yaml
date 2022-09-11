@@ -1,6 +1,6 @@
 analyzer:
   exclude:
     - boilerplate/__brick__/**
-    - config/**/__brick__/**
-    - i18n/__brick__/**
-    - lib/**/__brick__/**
+    - tools/config/**/__brick__/**
+    - tools/i18n/__brick__/**
+    - tools/lib/**/__brick__/**
