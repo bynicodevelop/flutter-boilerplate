@@ -1,4 +1,4 @@
-import 'package:app_name/utils/show_confirm.dart';
+import 'package:{{app_package_name}}/utils/show_confirm.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

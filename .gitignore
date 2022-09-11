@@ -4,3 +4,4 @@ com_nicodevelop_app
 boilerplate/__brick__/{{app_package_name}}/.dart_tool
 docs
 .github
+com_nicodevelop_app
